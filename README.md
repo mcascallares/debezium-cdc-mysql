@@ -35,7 +35,7 @@ docker exec -it connect curl -X PUT \
 ```
 
 
-## Accessing Mysql Database and create sample data
+## Accessing MySQL Database and create sample data
 
 ```
 docker exec -it mysql mysql --user=root --password=root
